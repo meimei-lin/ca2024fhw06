@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: d327464087c047f41ba889179ba74d3d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\scene.bin
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\scene.bin
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_emissive.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_emissive.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_normal.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_normal.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_Lightbeam_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_Lightbeam_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_Lightbeam_emissive.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_Lightbeam_emissive.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_0_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_0_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_0_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_0_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_0_emissive.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_0_emissive.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_0_normal.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_SceneProps.001_0_normal.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_0_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_0_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_0_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_0_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_0_normal.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_0_normal.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_1_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_1_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_2_baseColor.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_2_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_1_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_1_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_2_baseColor.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_2_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_2_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_2_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_2_normal.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_2_normal.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_3_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_3_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_3_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_3_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_3_emissive.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_3_emissive.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_3_normal.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_3_normal.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_3_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_3_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_3_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_3_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_3_normal.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_3_normal.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_circle_004.004_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_circle_004.004_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_circle_004.004_emissive.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\MAT_circle_004.004_emissive.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_5_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_5_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_5_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_5_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_4_baseColor.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_4_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_5_baseColor.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.057_5_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_6_baseColor.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_6_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_6_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_6_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_6_normal.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_6_normal.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_7_baseColor.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_7_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_7_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_7_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_7_normal.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_7_normal.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_8_baseColor.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_8_baseColor.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_9_baseColor.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_9_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_9_metallicRoughness.png
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_9_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_9_normal.jpeg
+    assetPath: Assets\metaverse_concert_stage_version_2_pbr\textures\Material.006_9_normal.jpeg
+  reportItems: []
